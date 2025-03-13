@@ -95,3 +95,15 @@
 ## Step 8: View Query Dependencies  
 - Go to View Menu → Click Dependencies  
 - Check if all queries are correctly linked 
+## Here's the screenshot of my output before I started data cleaning
+<img src="Images/QueryNaMadumi.png" alt="Alt Text" Width="900" heigth="300">
+
+## Here's the screenshot of my output after I started data cleaning
+<img src="Images/cleaned.png" alt="Alt Text" Width="900" heigth="300">
+<img src="Images/Role_Size.png" alt="Alt Text" Width="900" heigth="300">
+<img src="Images/Role_Type.png" alt="Alt Text" Width="900" heigth="300">
+<img src="Images/State_Ref.png" alt="Alt Text" Width="900" heigth="300">
+<img src="Images/State_cy.png" alt="Alt Text" Width="900" heigth="300">
+
+## Here's the screenshot of the Query Dependencies
+<img src="Images/Querydependency.png" alt="Alt Text" Width="900" heigth="300">
